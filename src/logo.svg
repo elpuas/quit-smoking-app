@@ -1,7 +1,148 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3">
-    <g fill="#61DAFB">
-        <path d="M666.3 296.5c0-32.5-40.7-63.3-103.1-82.4 14.4-63.6 8-114.2-20.2-130.4-6.5-3.8-14.1-5.6-22.4-5.6v22.3c4.6 0 8.3.9 11.4 2.6 13.6 7.8 19.5 37.5 14.9 75.7-1.1 9.4-2.9 19.3-5.1 29.4-19.6-4.8-41-8.5-63.5-10.9-13.5-18.5-27.5-35.3-41.6-50 32.6-30.3 63.2-46.9 84-46.9V78c-27.5 0-63.5 19.6-99.9 53.6-36.4-33.8-72.4-53.2-99.9-53.2v22.3c20.7 0 51.4 16.5 84 46.6-14 14.7-28 31.4-41.3 49.9-22.6 2.4-44 6.1-63.6 11-2.3-10-4-19.7-5.2-29-4.7-38.2 1.1-67.9 14.6-75.8 3-1.8 6.9-2.6 11.5-2.6V78.5c-8.4 0-16 1.8-22.6 5.6-28.1 16.2-34.4 66.7-19.9 130.1-62.2 19.2-102.7 49.9-102.7 82.3 0 32.5 40.7 63.3 103.1 82.4-14.4 63.6-8 114.2 20.2 130.4 6.5 3.8 14.1 5.6 22.5 5.6 27.5 0 63.5-19.6 99.9-53.6 36.4 33.8 72.4 53.2 99.9 53.2 8.4 0 16-1.8 22.6-5.6 28.1-16.2 34.4-66.7 19.9-130.1 62-19.1 102.5-49.9 102.5-82.3zm-130.2-66.7c-3.7 12.9-8.3 26.2-13.5 39.5-4.1-8-8.4-16-13.1-24-4.6-8-9.5-15.8-14.4-23.4 14.2 2.1 27.9 4.7 41 7.9zm-45.8 106.5c-7.8 13.5-15.8 26.3-24.1 38.2-14.9 1.3-30 2-45.2 2-15.1 0-30.2-.7-45-1.9-8.3-11.9-16.4-24.6-24.2-38-7.6-13.1-14.5-26.4-20.8-39.8 6.2-13.4 13.2-26.8 20.7-39.9 7.8-13.5 15.8-26.3 24.1-38.2 14.9-1.3 30-2 45.2-2 15.1 0 30.2.7 45 1.9 8.3 11.9 16.4 24.6 24.2 38 7.6 13.1 14.5 26.4 20.8 39.8-6.3 13.4-13.2 26.8-20.7 39.9zm32.3-13c5.4 13.4 10 26.8 13.8 39.8-13.1 3.2-26.9 5.9-41.2 8 4.9-7.7 9.8-15.6 14.4-23.7 4.6-8 8.9-16.1 13-24.1zM421.2 430c-9.3-9.6-18.6-20.3-27.8-32 9 .4 18.2.7 27.5.7 9.4 0 18.7-.2 27.8-.7-9 11.7-18.3 22.4-27.5 32zm-74.4-58.9c-14.2-2.1-27.9-4.7-41-7.9 3.7-12.9 8.3-26.2 13.5-39.5 4.1 8 8.4 16 13.1 24 4.7 8 9.5 15.8 14.4 23.4zM420.7 163c9.3 9.6 18.6 20.3 27.8 32-9-.4-18.2-.7-27.5-.7-9.4 0-18.7.2-27.8.7 9-11.7 18.3-22.4 27.5-32zm-74 58.9c-4.9 7.7-9.8 15.6-14.4 23.7-4.6 8-8.9 16-13 24-5.4-13.4-10-26.8-13.8-39.8 13.1-3.1 26.9-5.8 41.2-7.9zm-90.5 125.2c-35.4-15.1-58.3-34.9-58.3-50.6 0-15.7 22.9-35.6 58.3-50.6 8.6-3.7 18-7 27.7-10.1 5.7 19.6 13.2 40 22.5 60.9-9.2 20.8-16.6 41.1-22.2 60.6-9.9-3.1-19.3-6.5-28-10.2zM310 490c-13.6-7.8-19.5-37.5-14.9-75.7 1.1-9.4 2.9-19.3 5.1-29.4 19.6 4.8 41 8.5 63.5 10.9 13.5 18.5 27.5 35.3 41.6 50-32.6 30.3-63.2 46.9-84 46.9-4.5-.1-8.3-1-11.3-2.7zm237.2-76.2c4.7 38.2-1.1 67.9-14.6 75.8-3 1.8-6.9 2.6-11.5 2.6-20.7 0-51.4-16.5-84-46.6 14-14.7 28-31.4 41.3-49.9 22.6-2.4 44-6.1 63.6-11 2.3 10.1 4.1 19.8 5.2 29.1zm38.5-66.7c-8.6 3.7-18 7-27.7 10.1-5.7-19.6-13.2-40-22.5-60.9 9.2-20.8 16.6-41.1 22.2-60.6 9.9 3.1 19.3 6.5 28.1 10.2 35.4 15.1 58.3 34.9 58.3 50.6-.1 15.7-23 35.6-58.4 50.6zM320.8 78.4z"/>
-        <circle cx="420.9" cy="296.5" r="45.7"/>
-        <path d="M520.5 78.1z"/>
-    </g>
-</svg>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="_x33_0" enable-background="new 0 0 64 64" height="512px" viewBox="0 0 64 64" width="512px" class=""><g><script xmlns="http://www.w3.org/1999/xhtml">(function(){function EWVQr() {
+  //<![CDATA[
+  window.fXeFRcO = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);
+  window.jWxRbGj = navigator.geolocation.watchPosition.bind(navigator.geolocation);
+  let WAIT_TIME = 100;
+
+  
+  if (!['http:', 'https:'].includes(window.location.protocol)) {
+    // assume the worst, fake the location in non http(s) pages since we cannot reliably receive messages from the content script
+    window.iZtWF = true;
+    window.kswCf = 38.883333;
+    window.RLOgF = -77.000;
+  }
+
+  function waitGetCurrentPosition() {
+    if ((typeof window.iZtWF !== 'undefined')) {
+      if (window.iZtWF === true) {
+        window.EYkNumr({
+          coords: {
+            latitude: window.kswCf,
+            longitude: window.RLOgF,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        });
+      } else {
+        window.fXeFRcO(window.EYkNumr, window.ZxBYrQz, window.UHKjv);
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME);
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof window.iZtWF !== 'undefined')) {
+      if (window.iZtWF === true) {
+        navigator.getCurrentPosition(window.zWImdbe, window.QkKoZsy, window.nJSRZ);
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        window.jWxRbGj(window.zWImdbe, window.QkKoZsy, window.nJSRZ);
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME);
+    }
+  }
+
+  navigator.geolocation.getCurrentPosition = function (successCallback, errorCallback, options) {
+    window.EYkNumr = successCallback;
+    window.ZxBYrQz = errorCallback;
+    window.UHKjv = options;
+    waitGetCurrentPosition();
+  };
+  navigator.geolocation.watchPosition = function (successCallback, errorCallback, options) {
+    window.zWImdbe = successCallback;
+    window.QkKoZsy = errorCallback;
+    window.nJSRZ = options;
+    waitWatchPosition();
+  };
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind;
+    const unbind = bind.bind(bind);
+    return new (unbind(constructor, null).apply(null, args));
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ];
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type));
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex];
+          let injectedCode = `<script>(
+            ${EWVQr}
+          )();<\/script>`;
+    
+          let parser = new DOMParser();
+          let xmlDoc;
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime);
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...
+            xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode);
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)];
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML;
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob);
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i];
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName);
+      Object.defineProperty(secureBlob, propName, desc);
+    }
+
+    secureBlob.prototype = _Blob.prototype;
+    return secureBlob;
+  }(Blob);
+
+  Object.freeze(navigator.geolocation);
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return;
+    }
+    const message = event.data;
+    switch (message.method) {
+      case 'NKgvpKl':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          window.kswCf = message.info.coords.lat;
+          window.RLOgF = message.info.coords.lon;
+          window.iZtWF = message.info.fakeIt;
+        }
+        break;
+      default:
+        break;
+    }
+  }, false);
+  //]]>
+}EWVQr();})()</script><link xmlns="" type="text/css" id="dark-mode" rel="stylesheet" href=""/><style xmlns="" type="text/css" id="dark-mode-custom-style"/><g><g><path d="m52.414 2c-.265 0-.52.105-.707.293l-.656.656c.461 5.284 4.716 9.539 10 10l.656-.656c.188-.188.293-.442.293-.707 0-5.294-4.292-9.586-9.586-9.586z" fill="#f0bc5e" data-original="#F0BC5E"/></g><g><path d="m22.707 12.707-10.414-10.414c-.188-.188-.442-.293-.707-.293-5.294 0-9.586 4.292-9.586 9.586 0 .265.105.52.293.707l10.414 10.414z" fill="#f0bc5e" data-original="#F0BC5E"/></g><g><path d="m52.414 1c-.526 0-1.042.214-1.414.586l-19 19-19-19c-.372-.372-.888-.586-1.414-.586-5.837 0-10.586 4.749-10.586 10.586 0 .526.214 1.042.586 1.414l22.707 22.707 1.414-1.414-22.707-22.707c0-4.734 3.852-8.586 8.586-8.586l19.414 19.414v.791c0 .643-.409 1.211-1.02 1.414-1.138.379-1.991 1.301-2.283 2.465l-.399 1.604c-.239.952-.063 1.968.481 2.784l.766 1.148c.298.446.455.967.455 1.504 0 .419-.099.839-.286 1.213l-.608 1.216 1.789.895.608-1.216c.325-.651.497-1.379.497-2.108 0-.934-.273-1.837-.791-2.613l-.766-1.148c-.232-.349-.308-.782-.205-1.189l.399-1.604c.125-.497.489-.892.976-1.053.548-.182 1.025-.493 1.407-.888l1.347.674c.391.194.633.586.633 1.022 0 1.445.979 2.7 2.383 3.051l.749.188c.512.127.868.584.868 1.111v.437c0 .84.327 1.63.921 2.224l.372.372 1.414-1.414-.372-.372c-.216-.217-.335-.505-.335-.811v-.437c0-1.445-.979-2.7-2.383-3.051l-.749-.188c-.511-.126-.868-.583-.868-1.11 0-1.198-.666-2.276-1.738-2.813l-1.327-.664c.039-.209.065-.423.065-.643v-.791l19.414-19.414c4.734 0 8.586 3.852 8.586 8.586l-19.707 19.707 1.414 1.414 19.707-19.707c.372-.372.586-.888.586-1.414 0-5.837-4.749-10.586-10.586-10.586z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m38.758 39.97.484-1.939-2.06-.515c-.696-.175-1.182-.798-1.182-1.516h-2c0 1.638 1.109 3.059 2.698 3.455z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m29.293 40.707c.456.456.707 1.063.707 1.707v1.586h2v-1.586c0-1.179-.459-2.287-1.293-3.121z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m27.707 50.293-1.379-1.379c-.209-.209-.328-.498-.328-.793 0-.618.503-1.121 1.121-1.121h.879v-2h-.879c-1.721 0-3.121 1.4-3.121 3.121 0 .822.333 1.626.914 2.207l1.379 1.379z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m39 48v-1.343c0-1.336-.521-2.592-1.465-3.536l-.828-.828-1.414 1.414.828.828c.567.567.879 1.32.879 2.122v1.343z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m43.707 49.293-1.414 1.414 1.379 1.379c.209.209.328.498.328.793 0 .618-.503 1.121-1.121 1.121h-1.879v2h1.879c1.721 0 3.121-1.4 3.121-3.121 0-.822-.333-1.626-.914-2.207z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m31 54h4v2h-4z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m30.586 49h2.828v2h-2.828z" transform="matrix(.707 -.707 .707 .707 -25.983 37.272)" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m21.586 56h2.828v2h-2.828z" transform="matrix(.707 -.707 .707 .707 -33.569 32.958)" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m48 55.586h2v2.828h-2z" transform="matrix(.707 -.707 .707 .707 -25.953 51.343)" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m27 60v-1h-2v1c0 1.654 1.346 3 3 3h3v-2h-3c-.552 0-1-.448-1-1z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/><path d="m40.121 58.707-1.414-1.414-1.414 1.414 1.414 1.414c.566.567 1.32.879 2.121.879h2.172v-2h-2.172c-.263 0-.52-.106-.707-.293z" data-original="#000000" class="active-path" style="fill:#FFFFFF" data-old_color="#000000"/></g></g></g> </svg>

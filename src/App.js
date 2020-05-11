@@ -1,14 +1,13 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
-import './App.css';
 
-import Header from './components/Header'
-import Footer from './components/Footer'
-import Home from './components/Home';
-import Dashboard from './components/Dashboard';
-import Register from './components/Register';
 import About from './components/About';
-
+import Dashboard from './components/Dashboard';
+import Footer from './components/Footer'
+import Header from './components/Header'
+import Home from './components/Home';
+import Layout from './components/Layout'
+import Register from './components/Register';
 
 function App() {
   const [ users, setUsers] = useState([])
@@ -34,40 +33,40 @@ function App() {
 
   return (
     <Router>
-      <Header />
-      <div className="App">
-        <Switch>
-        <Route
-          exact
-          path="/"
-          render={() => (
-            <Home />
-          )}
-        />
-        <Route
-          exact
-          path="/dashboard"
-          render={() => (
-            <Dashboard />
-          )}
-        />
-        <Route
-          exact
-          path="/register"
-          render={() => (
-            <Register />
-          )}
-        />
-        <Route
-          exact
-          path="/about"
-          render={() => (
-            <About />
-          )}
-        />
-        </Switch>
-      </div>
-      <Footer />
+        <Layout>
+        <Header />
+          <Switch>
+          <Route
+            exact
+            path="/"
+            render={() => (
+              <Home />
+            )}
+          />
+          <Route
+            exact
+            path="/dashboard"
+            render={() => (
+              <Dashboard />
+            )}
+          />
+          <Route
+            exact
+            path="/register"
+            render={() => (
+              <Register />
+            )}
+          />
+          <Route
+            exact
+            path="/about"
+            render={() => (
+              <About />
+            )}
+          />
+          </Switch>
+          <Footer />
+        </Layout>
     </Router>
   );
 }
